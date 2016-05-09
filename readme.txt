@@ -1,2 +1,10 @@
-Git is a version control system.
-Git is free software.
+个人的BBS
+用django框架实现
+实现发布文章 点赞 多级评论 自定义分页等功能
+与web聊天室整合在一起
+
+聊天室利用长轮询与递归的方式实现了实时聊天功能
+加入了群组聊天。
+
+此程序更多的是作者拿来练习前端与django后台交互的例子。使用的django的模板语言在前端生成form表单。
+前端页面主要由BootStrap实现。
